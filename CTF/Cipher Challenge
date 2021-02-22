@@ -1,0 +1,20 @@
+                                  Forensic
+==============================================================================
+DATABASE FILES(Easy)
+
+Given Files: messages.db
+Software use: SQLite3 Browser 
+
+What is the username of the person who posted the flag?
+-- Timothy
+
+When was the flag uploaded?
+-- 
+
+What is the flag?
+-- 
+
+Approach:
+Install SQLite3 Broswer or some SQLite binaries by through the terminal. 
+Open the DB file with the SQLite3 and look for through the chat messages.
+
